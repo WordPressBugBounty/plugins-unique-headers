@@ -1,6 +1,6 @@
 <?php
 
-namespace Psr\Container;
+namespace RyanHellyer\UniqueHeaders\Vendor\Psr\Container;
 
 /**
  * No entry was found in the container.

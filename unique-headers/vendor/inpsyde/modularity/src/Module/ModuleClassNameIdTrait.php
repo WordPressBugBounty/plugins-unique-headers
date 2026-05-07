@@ -1,8 +1,7 @@
 <?php
 
-declare(strict_types=1);
-
-namespace Inpsyde\Modularity\Module;
+declare (strict_types=1);
+namespace RyanHellyer\UniqueHeaders\Vendor\Inpsyde\Modularity\Module;
 
 trait ModuleClassNameIdTrait
 {

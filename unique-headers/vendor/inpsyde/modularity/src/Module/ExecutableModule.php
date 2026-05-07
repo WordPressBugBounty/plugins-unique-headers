@@ -1,11 +1,9 @@
 <?php
 
-declare(strict_types=1);
+declare (strict_types=1);
+namespace RyanHellyer\UniqueHeaders\Vendor\Inpsyde\Modularity\Module;
 
-namespace Inpsyde\Modularity\Module;
-
-use Psr\Container\ContainerInterface;
-
+use RyanHellyer\UniqueHeaders\Vendor\Psr\Container\ContainerInterface;
 interface ExecutableModule extends Module
 {
     /**
